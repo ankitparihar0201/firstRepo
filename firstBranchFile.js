@@ -1,2 +1,2 @@
 var fruit = ["mango","apple"];
-console.log(fruit.join());
+console.log(fruit.join().length);
